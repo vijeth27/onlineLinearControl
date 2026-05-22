@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow only the final notebook and repo metadata
+!.gitignore
+!README.md
+!OnlineLinearControl_Final.ipynb
+
+# Never commit secrets or checkpoints
+PAT.txt
+.ipynb_checkpoints/
