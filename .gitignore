@@ -5,6 +5,7 @@
 !.gitignore
 !README.md
 !OnlineLinearControl_Final.ipynb
+!OnlineLinearControl_AffineBenchmark.ipynb
 
 # Never commit secrets or checkpoints
 PAT.txt
