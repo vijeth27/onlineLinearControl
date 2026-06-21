@@ -6,7 +6,4 @@
 !README.md
 !OnlineLinearControl_Final.ipynb
 !OnlineLinearControl_AffineBenchmark.ipynb
-
-# Never commit secrets or checkpoints
-PAT.txt
-.ipynb_checkpoints/
+!OnlineLinearControl_AffineBenchmark_vUpdateInnerLoop+Non-convex.ipynb
